@@ -1,0 +1,25 @@
+{
+
+    "firstName": "Tony",
+
+    "lastName": "Stark",
+
+    "preferredName": "Iron Man",
+
+    "email": "classified@needto.know",
+
+    "phoneNumber": "123-456-7890",
+
+    "city": "New York",
+
+    "state": "NY",
+
+    "zip": "10007",
+
+    "lat": "4.71",
+
+    "lng": "-73.00", 
+
+    "favoriteHobby": "Going out with the ladies"
+
+}
